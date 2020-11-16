@@ -7,3 +7,6 @@ Data extracted as a shapefiles from: <br/>
   <li><a href="https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-nivel-de-referencia-de-veredas/"> DANE Veredas 2017</a></li>
   <li><a href="http://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/">DANE MGN 2020</a></li>
 </ul>
+
+<br/>
+<p>Converted to GEOJson format from <a href="https://mapshaper.org/">mapshaper</a></p>
