@@ -9,4 +9,4 @@ Data extracted as a shapefiles from: <br/>
 </ul>
 
 <br/>
-<p>Converted to GEOJson format from <a href="https://mapshaper.org/">mapshaper</a></p>
+<p>Converted to GEOJson format with <a href="https://mapshaper.org/">mapshaper</a></p>
